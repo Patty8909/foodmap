@@ -1,0 +1,15 @@
+.bg-color {
+    background-color: #2B2B2B;
+    font-family: 'Cambay', sans-serif;
+}
+.style-title {
+    color: #D37F32;
+}
+.size {
+    height: 100px;
+    margin-bottom: 10px;
+}
+.line {
+    color: white;
+    width: 80%;
+}
